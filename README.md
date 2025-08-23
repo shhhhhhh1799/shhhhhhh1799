@@ -12,13 +12,15 @@
 
 ---
 
-## 🛠 Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/C-2B579A?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Verilog-1572B6?style=for-the-badge&logo=verilog&logoColor=white" />
-  <img src="https://img.shields.io/badge/SystemVerilog-6A5ACD?style=for-the-badge&logo=verilog&logoColor=white" />
-</p>
+## 🛠 Expertise
+- **Languages**  
+  ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+- **HDL / EDA**  
+  ![Verilog](https://img.shields.io/badge/Verilog-FF5733?style=flat-square)
+  ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-6A5ACD?style=flat-square)
+
 
 ---
 
