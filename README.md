@@ -31,7 +31,7 @@
 | 프로젝트 | 설명 |
 |---|---|
 | [Verilog Embedded system Project](https://github.com/shhhhhhh1799/Verilog-Embedded-system-Project/tree/main) | Watch, Stopwatch, 거리측정, 온습도 표시 기능을 FPGA에서 통합 구현 |
-| [AI Math Tutor](https://github.com/shhhhhhh1799/AI_Math_Tutor/tree/main) | 손글씨/음성으로 입력된 수학 문제를 인식하여 계산하고, LLM과 음성 출력으로 풀이를 제공하는 AI 기반 학습 보조 시스템 |
+| [AI Math Tutor](https://github.com/shhhhhhh1799/AI_Math_Tutor/tree/main) | AI 기반 수학 문제 인식·풀이 보조 시스템 |
 | [FFT-Architecture](https://github.com/shhhhhhh1799/FFT-Architecture) | Fixed-point 기반 512-point FFT 연산을 SystemVerilog로 설계 및 검증 프로젝트 |
 | [RISC-V 32bit CPU Design](https://github.com/shhhhhhh1799/RISC-V_32bit_CPU) | RV32I 기반 32bit CPU를 Verilog/SystemVerilog로 설계하고, 명령어 실행/시뮬레이션을 통해 검증한 프로젝트 |
 
