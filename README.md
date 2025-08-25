@@ -3,6 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:89CFF0,100:E0FFFF&height=170&text=Welcome!%20Seungheon%20Portfolio&fontSize=42&animation=fadeIn" />
 </p>
 
+<p align="center">
+  ⚡ Passionate about <b>Circuit Design, Verification, Embedded Systems</b> ⚡
+</p>
+
 ---
 
 ## 👨‍💻 Career
