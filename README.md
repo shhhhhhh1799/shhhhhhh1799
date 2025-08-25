@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <h3>⚡ Passionate about <b>Circuit Design, Verification, Embedded Systems</b> ⚡
+ <h3>⚡ Passionate about <b>Circuit Design, Verification, Embedded Systems</b> ⚡</h3>
 </p>
 
 ---
