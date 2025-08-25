@@ -12,7 +12,6 @@
 ## 👨‍💻 Career
 - Majored in **Electronic Materials Science Engineering at Kyungpook National University**(2019.03 ~ 2025.02)  
 - 대한상공회의소 서울기술교육센터 **시스템반도체 설계** 교육 수료(2025.03 ~ 2025.10)
-- Passionate about **Circuit Design, Verification, Embedded Systems**
 
 ---
 
