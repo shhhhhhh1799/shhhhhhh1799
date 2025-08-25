@@ -6,8 +6,8 @@
 ---
 
 ## 👨‍💻 About Me
-- Majored in **Electronic Materials Science Engineering at Kyungpook National University**  
-- 대한상공회의소 서울기술교육센터 **시스템반도체 설계** 교육 수료
+- Majored in **Electronic Materials Science Engineering at Kyungpook National University**(2019.03 ~ 2025.02)  
+- 대한상공회의소 서울기술교육센터 **시스템반도체 설계** 교육 수료(2025.03 ~ 2025.10)
 - Passionate about **Circuit Design, Verification, Embedded Systems**
 
 ---
@@ -24,7 +24,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 | 프로젝트 | 설명 |
 |---|---|
 | [Verilog Embedded system Project](https://github.com/shhhhhhh1799/Verilog-Embedded-system-Project/tree/main) | Watch, Stopwatch, 거리측정, 온습도 표시 기능을 FPGA에서 통합 구현 |
