@@ -35,6 +35,7 @@
 | [FFT-Architecture](https://github.com/shhhhhhh1799/FFT-Architecture) | Fixed-point 기반 512-point FFT 연산을 SystemVerilog로 설계 및 검증 프로젝트 |
 | [RISC-V 32bit CPU Design](https://github.com/shhhhhhh1799/RISC-V_32bit_CPU) | RV32I 기반 32bit CPU를 Verilog/SystemVerilog로 설계하고, 명령어 실행/시뮬레이션을 통해 검증한 프로젝트 |
 | [SoC_Project](https://github.com/shhhhhhh1799/SoC_Project) | AMBA BUS(APB, AXI4-Lite) 기반 SoC 설계 프로젝트로, CPU–메모리–주변장치를 연결하는 내부 통신 구조를 구현하고 Verilog/SystemVerilog 시뮬레이션을 통해 GPIO, LED, FND 동작을 검증한 프로젝트 |
+| [Final Project](https://github.com/shhhhhhh1799/Final_project) | |
 
 
 ---
