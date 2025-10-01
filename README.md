@@ -35,10 +35,10 @@
 | [FFT-Architecture](https://github.com/shhhhhhh1799/FFT-Architecture) | Fixed-point 기반 512-point FFT 연산을 SystemVerilog로 설계 및 검증 프로젝트 |
 | [RISC-V 32bit CPU Design](https://github.com/shhhhhhh1799/RISC-V_32bit_CPU) | RV32I 기반 32bit CPU를 Verilog/SystemVerilog로 설계하고, 명령어 실행/시뮬레이션을 통해 검증한 프로젝트 |
 | [SoC_Project](https://github.com/shhhhhhh1799/SoC_Project) | AMBA BUS(APB, AXI4-Lite) 기반 SoC 설계 프로젝트로, CPU–메모리–주변장치를 연결하는 내부 통신 구조를 구현하고 Verilog/SystemVerilog 시뮬레이션을 통해 GPIO, LED, FND 동작을 검증한 프로젝트 |
-| [VGA_Embedded_Turret_system](https://github.com/shhhhhhh1799/Final_project) | |
+| [VGA_Embedded_Turret_system](https://github.com/shhhhhhh1799/Final_project) | OV7670 카메라와 Basys3 FPGA로 RED 색상을 감지해 3×3 구역을 판별하고, 9비트 UART를 통해 STM32 터렛(서보·모터)을 제어하며 PC HUD로 시각화한 영상처리 기반 방산형 터렛 시스템 |
 
 
 ---
 
 ## 📫 Contact
-📧 **Email**: [ssssssh17@naver.com](mailto:ssssssh17@naver.com)
+📧 **Email**: [psh99071717@naver.com](mailto:ssssssh17@naver.com)
